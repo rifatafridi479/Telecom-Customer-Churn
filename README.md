@@ -15,67 +15,67 @@ In the telecom industry, customers frequently switch providers, leading to an av
 
 * account length: The number of months a customer has had an active account with the company.
 
-area code: The three-digit area code assigned to the customer.
+* area code: The three-digit area code assigned to the customer.
 
-phone number: The customer's phone number (used as an identifier, not for analysis).
+* phone number: The customer's phone number (used as an identifier, not for analysis).
 
-international plan: Whether the customer is subscribed to an international calling plan (Yes or No).
+* international plan: Whether the customer is subscribed to an international calling plan (Yes or No).
 
-voice mail plan: Whether the customer is subscribed to a voicemail service (Yes or No).
+* voice mail plan: Whether the customer is subscribed to a voicemail service (Yes or No).
 
-number of voicemail messages: The total number of voicemail messages the customer has received.
+* number of voicemail messages: The total number of voicemail messages the customer has received.
 
 ### Usage and Call Statistics
 
-total day minutes: The total number of minutes used for calls during the day.
+* total day minutes: The total number of minutes used for calls during the day.
 
-total day calls: The total number of calls made during the day.
+* total day calls: The total number of calls made during the day.
 
-total day charge: The total charge for daytime calls.
+* total day charge: The total charge for daytime calls.
 
-total evening minutes: The total number of minutes used for calls during the evening.
+* total evening minutes: The total number of minutes used for calls during the evening.
 
-total evening calls: The total number of calls made during the evening.
+* total evening calls: The total number of calls made during the evening.
 
-total evening charge: The total charge for evening calls.
+* total evening charge: The total charge for evening calls.
 
-total night minutes: The total number of minutes used for calls during the night.
+* total night minutes: The total number of minutes used for calls during the night.
 
-total night calls: The total number of calls made during the night.
+* total night calls: The total number of calls made during the night.
 
-total night charge: The total charge for nighttime calls.
+* total night charge: The total charge for nighttime calls.
 
-total international minutes: The total number of minutes used for international calls.
+* total international minutes: The total number of minutes used for international calls.
 
-total international calls: The total number of international calls made.
+* total international calls: The total number of international calls made.
 
-total international charge: The total charge for international calls.
+* total international charge: The total charge for international calls.
 
 ### Customer Interaction & Churn
 
-customer service calls: The number of times the customer has contacted customer service.
+* customer service calls: The number of times the customer has contacted customer service.
 
-churn: The target variable indicating whether the customer has left the service (True for churn, False for not churn).
+* churn: The target variable indicating whether the customer has left the service (True for churn, False for not churn).
 
 ## Business Aspects of Telecom Customer Churn Analysis
 ### Business Goals
 
-Reduce Churn Rate: Identify key factors influencing customer churn and implement strategies to retain customers.
+* Reduce Churn Rate: Identify key factors influencing customer churn and implement strategies to retain customers.
 
-Increase Customer Lifetime Value (CLV): Enhance loyalty programs, offer personalized discounts, and improve service quality.
+* Increase Customer Lifetime Value (CLV): Enhance loyalty programs, offer personalized discounts, and improve service quality.
 
-Optimize Marketing Efforts: Target high-risk customers with proactive retention campaigns.
+* Optimize Marketing Efforts: Target high-risk customers with proactive retention campaigns.
 
-Improve Customer Service: Analyze customer support interactions to detect dissatisfaction early.
+* Improve Customer Service: Analyze customer support interactions to detect dissatisfaction early.
 
-Enhance Profitability: Reduce revenue loss by improving customer satisfaction and engagement.
+* Enhance Profitability: Reduce revenue loss by improving customer satisfaction and engagement.
 
 ### How This Dataset Helps?
 
-Usage Analysis: Understanding customer call and data usage patterns.
+* Usage Analysis: Understanding customer call and data usage patterns.
 
-Service Plan Impact: Evaluating how international plans and voicemail services affect retention.
+* Service Plan Impact: Evaluating how international plans and voicemail services affect retention.
 
-Customer Support Influence: Examining the effect of customer service calls on churn likelihood.
+* Customer Support Influence: Examining the effect of customer service calls on churn likelihood.
 
-High-Risk Customer Identification: Predicting customers most likely to leave and taking preventive actions.
+* High-Risk Customer Identification: Predicting customers most likely to leave and taking preventive actions.
