@@ -79,3 +79,6 @@ In the telecom industry, customers frequently switch providers, leading to an av
 * Customer Support Influence: Examining the effect of customer service calls on churn likelihood.
 
 * High-Risk Customer Identification: Predicting customers most likely to leave and taking preventive actions.
+  
+## Source of dataset:
+The dataset used in this project is sourced from Kaggle. You can access and download it from data folder
