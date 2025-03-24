@@ -1,5 +1,6 @@
-📈 # Telecom Customer Churn Analysis
-Predicting customer churn and identifying the key factors which will influence to retain customers in future
+ # Telecom Customer Churn Analysis
+
+📈 Predicting customer churn and identifying the key factors which will influence to retain customers in future
 
 ## Project Overview
 In the telecom industry, customer churn (when customers leave the service) is a major challenge. This project analyzes customer data to identify the major factors contributing to customer churn and builds a predictive model to help telecom companies retain customers.
@@ -8,7 +9,7 @@ In the telecom industry, customer churn (when customers leave the service) is a 
 In the telecom industry, customers frequently switch providers, leading to an average annual churn rate of 15-25%. Since acquiring a new customer costs 5-25 times more than retaining one, customer retention is now a top priority.
 ![What-stops-customer-churn-Having-a-centralized-data-hub-does-and-heres-why](https://github.com/user-attachments/assets/212e3035-3120-4149-8978-e8e54677672f)
 
- 📊 # Dataset Features
+ # Dataset Features
 state: The U.S. state where the customer resides.
 account length: The number of months a customer has had an active account with the company.
 area code: The three-digit area code assigned to the customer.
@@ -35,7 +36,7 @@ customer service calls: The number of times the customer has contacted customer 
 churn: The target variable indicating whether the customer has left the service (True for churn, False for not churn).
 
 ## Business Aspects of Telecom Customer Churn Analysis
-🎯 ### Business Goals
+### Business Goals
 Reduce Churn Rate: Identify key factors influencing customer churn and implement strategies to retain customers.
 Increase Customer Lifetime Value (CLV): Enhance loyalty programs, offer personalized discounts, and improve service quality.
 Optimize Marketing Efforts: Target high-risk customers with proactive retention campaigns.
