@@ -11,9 +11,9 @@ In the telecom industry, customers frequently switch providers, leading to an av
 
  # Dataset Features
  
-state: The U.S. state where the customer resides.
+*state: The U.S. state where the customer resides.
 
-account length: The number of months a customer has had an active account with the company.
+*account length: The number of months a customer has had an active account with the company.
 
 area code: The three-digit area code assigned to the customer.
 
