@@ -32,6 +32,38 @@ In the telecom industry, customers frequently switch providers, leading to an av
 * Customer Support Influence: Examining the effect of customer service calls on churn likelihood.
 
 * High-Risk Customer Identification: Predicting customers most likely to leave and taking preventive actions.
-  
+
+## Techniques used in this project:
+## 📊 Data Exploration & Preprocessing
+### Data Loading: 
+The dataset is imported using pandas, providing a structured format for analysis.
+
+### Exploratory Data Analysis (EDA): 
+Initial analysis includes checking for null values, understanding data types, and summarizing statistical properties.
+
+### Data Cleaning: 
+Drop unnecessary columns that don’t contribute to analysis and correcting data types and addressing inconsistencies to prepare the data.
+
+## 🎯 Target Variable Analysis: churn
+To understand the distribution of the target variable churn, the following steps were performed:
+
+![Screenshot (1)](https://github.com/user-attachments/assets/3d0d802a-9c8c-4acb-b041-fc88db99b4a7)
+
+## 📊 Output:
+This provides both the raw counts and the percentages of customers who churned vs. those who did not. It helps identify if the dataset is imbalanced, which is critical when building classification models.
+
+Understanding this distribution allows us to:
+
+* Detect potential class imbalance
+* Decide on the need for resampling techniques (like SMOTE or undersampling)
+* Adjust class weights in models for better performance on the minority class
+
+## 📈 Data Visualization
+Analysis of the target variable: A pie chart is used in this kind of project to visualize the class distribution of the target variable — in this case, churn (e.g., Yes vs. No).
+
+Univariate Analysis: Visualizations such as histograms and bar plots are used to understand the distribution of individual features.
+
+Correlation Analysis: Heatmaps and correlation matrices identify relationships between numerical variables, aiding in feature selection.
+ 
 ## Source of dataset:
-The dataset used in this project is sourced from Kaggle. You can access and download it from data folder
+The dataset used in this project is sourced from Kaggle. You can access and download it from csv file folder
